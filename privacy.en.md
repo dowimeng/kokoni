@@ -5,7 +5,7 @@ lang: en
 
 # Pet Kokoni Privacy Policy
 
-Version 2 · Effective date: 26 October 2026
+Version 3 · Effective date: 27 October 2026
 
 Pet Kokoni (shown as Kokoni on your device) is developed and operated by Dewei Meng, an individual developer ("we"). This policy explains what information Pet Kokoni handles, where it is kept, and how you can manage it.
 
@@ -45,14 +45,19 @@ Android: if the system's automatic backup is on for your device, Android backs u
 
 ## 4. System permissions
 
-Pet Kokoni asks for each permission only when you use the feature that needs it. You can decline, or turn it off later in iOS Settings; only that feature is affected.
+Pet Kokoni asks for each permission only when you use the feature that needs it. You can decline, or turn it off later in your system settings (on iPhone in Settings; on Android under Settings → Apps → Kokoni, which may differ slightly between device makers); only that feature is affected.
 
 | Permission | Used for | If declined |
 |---|---|---|
 | Notifications | Telling you when a focus or rest session ends | No reminder at the end of a session |
 | Microphone and speech recognition | Writing notes by voice. Recognition happens on your device; no recording is uploaded or kept | Notes can still be typed |
 | Photos (add only) | Saving gift pictures and videos to your library. Pet Kokoni does not read your library | Gifts cannot be saved, but can still be shared |
-| Screen Time | During a Deep Focus session, blocking the apps you choose. Your choice of apps stays on your device and we cannot see it | Deep Focus runs as a normal session |
+| Screen Time (iPhone) | During a Deep Focus session, blocking the apps you choose. Your choice of apps stays on your device and we cannot see it | Deep Focus runs as a normal session |
+| Usage access (Android) | During a Deep Focus session, telling which app is open so that the apps you have not allowed can be blocked. This is decided on your device; which apps you use is not recorded or uploaded | Deep Focus runs as a normal session |
+| Display over other apps (Android) | During a Deep Focus session, showing your pet over a blocked app | Deep Focus runs as a normal session |
+| Battery optimisation (Android, optional) | Keeping a session running in the background without the system stopping it | A session may be stopped by the system in the background |
+
+When you choose the apps allowed during Deep Focus on Android, Pet Kokoni reads the list of apps that can be opened from your home screen (names and icons) on your device, only to let you choose. Your choice stays on your device and we cannot see it.
 
 The countdown on the lock screen and in the Dynamic Island (Live Activity) is shown on your device and needs no separate permission; you can turn it off in iOS Settings.
 
