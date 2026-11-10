@@ -5,7 +5,7 @@ lang: en
 
 # Pet Kokoni Terms of Use
 
-Version 4 · Effective date: the release date of version 1.2
+Version 5 · Effective date: the release date of version 1.2
 
 These terms are an agreement between you and Dewei Meng, the developer and operator of Pet Kokoni (shown as Kokoni on your device) ("we"), about your use of Pet Kokoni. By tapping "Agree and continue" or using Pet Kokoni, you agree to these terms and to the [Privacy Policy](privacy.en.html). When you get Pet Kokoni from the App Store, Apple's [Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies; where the two differ, these terms prevail unless the law requires otherwise.
 
@@ -19,15 +19,16 @@ Pet Kokoni helps you set aside time to focus. It does not give medical, psycholo
 
 The following applies to versions that offer in-app purchases:
 
-- After you install Pet Kokoni, you can try every feature for free until your focus time adds up to 60 minutes. The trial needs no payment method and never charges you.
+- Without a purchase, you can try every feature for free for 60 minutes of focus time each week. The trial renews on the first day of the week set on your device (for example Monday), and unused time does not carry over to the next week. The trial needs no payment method and never charges you.
 - A 7-day free trial that started before version 1.2 stays valid until its 7 days are up.
-- After the trial, a monthly subscription, a yearly subscription or the lifetime purchase is needed to start new focus sessions. Prices are as shown on the App Store or Google Play purchase page.
+- When a 7-day trial ends, a subscription ends without renewal or a purchase is refunded, the 60 minutes a week apply as well.
+- Once this week's trial time is used up, a monthly subscription, a yearly subscription or the lifetime purchase is needed to start new focus sessions before the trial renews. Prices are as shown on the App Store or Google Play purchase page.
 - The monthly and yearly subscriptions renew automatically, every month and every year respectively. On iPhone, within 24 hours before each period ends, Apple charges your Apple Account for the next period unless you turn off auto-renewal at least 24 hours before the end of the current period. Manage or cancel them under Settings → [your name] → Subscriptions. For yearly subscribers in mainland China, Pet Kokoni reminds you 5 days before renewal.
 - On Android, Google Play renews and charges the monthly and yearly subscriptions under its own rules. Manage or cancel them in Google Play under Payments & subscriptions → Subscriptions.
 - The lifetime purchase is a one-time payment.
 - Payments and refunds are handled by Apple or Google under their own rules. After moving to a new device or reinstalling, tap "Restore purchases" in the app to get your purchase back. Purchases on iPhone and on Android do not carry over to each other.
 - Family Sharing is not available for Pet Kokoni's in-app purchases.
-- If the trial ends without a purchase, or a subscription ends without renewal, Pet Kokoni cannot start a new focus session; everything else, such as viewing your records and gifts or opening boxes and unlocking pets with the paw coins you have, keeps working. Your focus records, companion days, gifts, paw coins and unlocked pets are all kept, and every feature is available again after purchasing.
+- Once this week's trial time is used up without a purchase, Pet Kokoni cannot start a new focus session until the trial renews; everything else, such as viewing your records and gifts or opening boxes and unlocking pets with the paw coins you have, keeps working. Your focus records, companion days, gifts, paw coins and unlocked pets are all kept, and every feature is available again after purchasing.
 
 ## 3. Paw coins and gifts
 
